@@ -24,6 +24,7 @@ for($i = 0; $i < count($materias); $i++){
 echo "</ul> <br> ";
 
 
+
 // b) Operaciones aritméticas
 echo "Operaciones aritméticas: ". "<br>";
 $numeroAleatorio1 = 150;
